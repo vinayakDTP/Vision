@@ -1,0 +1,21 @@
+{
+    "houghParameters" :
+{
+    "minCannythresh" : 110,
+    "maxCannythresh" : 220,
+    "cannyKernelsize" : 3,
+    "angleResolution1": 0.0087,
+    "accmThreshold1"     : 20,
+    "minLinelen1" : 10,
+    "maxPointdist1" : 7,
+    "angleResolution2": 0.0174,
+    "accmThreshold2"     : 20,
+    "minLinelen2" : 10,
+    "maxPointdist2" : 7,
+    "angleResolution3": 0.0174,
+    "accmThreshold3"     : 20,
+    "minLinelen3" : 10,
+    "maxPointdist3" : 7
+
+}
+} 
