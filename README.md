@@ -1,2 +1,2 @@
 # Vision
-Basics of computer vision and some other examples
+ Computer vision basics and some other notebooks from my projects
