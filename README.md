@@ -1,2 +1,2 @@
 # Vision
-  Pyhton notebooks and source files containing my project codes
+  Python notebooks and source files for my project codes
