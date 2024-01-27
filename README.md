@@ -1,2 +1,2 @@
 # Vision
- Computer vision basics and some other notebooks from my projects
+  Pyhton notebooks and source files containing my project codes
