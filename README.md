@@ -1,2 +1,2 @@
 # Vision
-  Python notebooks and source files for my project codes
+  Python notebooks and source files for domain algorithms 
